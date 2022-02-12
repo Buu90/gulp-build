@@ -1,1 +1,7 @@
-# gulp-build
+Install:
+
+npm i;
+
+Start:
+
+gulp;
