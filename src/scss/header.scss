@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+  font-family: "Roboto-Black";
+}
+span {
+  font-size: 20px;
+  @media (max-width: 767px) {
+    font-size: 15px;
+  }
+}
