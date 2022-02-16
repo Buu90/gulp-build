@@ -7,6 +7,11 @@ Start:
 gulp;
 
 
+if Error: Cannot find module 'webp-converter/cwebp'
+
+npm install webp-converter@2.2.3 --save-dev
+
+
 Assembly:
 1) gulp-autoprefixer
 2) gulp-file-include
